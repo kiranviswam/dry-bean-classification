@@ -4,4 +4,5 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-streamlit
+streamlit>=1.30
+altair>=5
